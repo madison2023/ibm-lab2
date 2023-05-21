@@ -19,4 +19,4 @@ The User Search App should be able to:
 + Remove entries from list (do not try to delete from databse, data will refresh on pull)
 + Search for users by name
 + Search for users by city
-+ Sort users by city# ibm-lab2
++ Sort users by city
